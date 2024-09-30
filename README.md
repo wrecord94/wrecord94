@@ -31,5 +31,4 @@
 
 ## What I'm currently learning 📚
 
-* Working on 100 Days of Python - Advanced Section
-* Msc Computer Science - part-time aiming to graduate in October 2024.
+* Training Temporal Difference Algorithms in custom environments.
