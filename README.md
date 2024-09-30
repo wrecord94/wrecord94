@@ -4,7 +4,7 @@
 
 ###### Studying M.Sc. Computer Science at Bath University
 
-###### 📈 72% grade average
+###### 📈 71% grade average
 
 ## My skills and projects
 
@@ -17,6 +17,10 @@
 * Game Playing bot
 * Web Development using Flask and Bootstrap.
 * SQLite and relational databases.
+* Deep Learning Temporal Difference Algorithms
+* Pytorch and Neural Networks
+* Pygame
+* Data Analysis using Matplotlib, NumPy and Scikit-Learn
 
 
 ### University Projects
