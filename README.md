@@ -1,6 +1,6 @@
 # Hi I'm Will 👋
 
-###### 🚀 **Fintech Enthusiast |  Surfer 🌊 living in Cornwall UK 📍
+###### 🚀 Fintech Enthusiast |  Surfer 🌊 living in Cornwall UK 📍
 
 ###### Studying M.Sc. Computer Science at Bath University
 
