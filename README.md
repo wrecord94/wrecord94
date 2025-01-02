@@ -2,9 +2,7 @@
 
 ###### 🚀 Fintech Enthusiast |  Surfer 🌊 living in Cornwall UK 📍
 
-###### Studying M.Sc. Computer Science at Bath University
-
-###### 📈 71% grade average
+###### M.Sc. Computer Science Distinctiion from Bath University
 
 ## My skills and projects
 
