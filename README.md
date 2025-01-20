@@ -1,6 +1,6 @@
 # Hi I'm Will 👋
 
-###### 🚀 Fintech Enthusiast |  Surfer 🌊 living in Cornwall UK 📍
+###### 🚀 Fintech & Tech Enthusiast |  Surfer 🌊 living in Cornwall UK 📍
 
 ###### M.Sc. Computer Science Distinctiion from Bath University
 
@@ -25,8 +25,9 @@
 * Java
 * Haskell and Functional Programming
 * AI to solve Sudoku's
+* Temporal Difference Learning Algorithms to beat Atari Games
 
 
 ## What I'm currently learning 📚
 
-* Training Temporal Difference Algorithms in custom environments.
+* Data Engineering ZoomCamp '25
