@@ -2,7 +2,7 @@
 
 ###### 🚀 Fintech & Tech Enthusiast |  Surfer 🌊 living in Cornwall UK 📍
 
-###### M.Sc. Computer Science Distinctiion from Bath University
+###### M.Sc. Computer Science Distinction from Bath University
 
 ## My skills and projects
 
